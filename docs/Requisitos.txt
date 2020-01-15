@@ -1,0 +1,13 @@
+Coffee Shop
+
+Objetivos Principais
+
+  1 - Administrar o estoque
+  2 - Prover acesso à loja virtual
+
+Objetivos Complementares
+
+  1.1 - Organizar os produtos entre as categorias de bebidas e comida para facilitar a busca, podendo adicionar outras conforme necessário, como, por exemplo, verão, inverno ou Andes.
+  
+  2.1 - Loja virtual simples, com navegação à esquerda e visualmente agradável.
+

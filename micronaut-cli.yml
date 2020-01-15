@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: coffee.shop
+---
+testFramework: junit
+sourceLanguage: java

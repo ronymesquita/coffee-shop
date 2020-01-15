@@ -1,0 +1,22 @@
+---
+micronaut:
+  application:
+    name: coffee-shop
+
+---
+neo4j:
+  uri: bolt://${NEO4J_HOST:localhost}
+
+---
+micronaut:
+  server:
+    context-path: /api/v1
+    netty:
+      use-native-transport: true
+
+---
+micronaut:
+  io:
+    watch:
+      paths: src/main
+      restart: true
